@@ -27,3 +27,5 @@ Reporting and Documentation.
 
 * Experience in Oracle HRMS API’s, PL/SQL Programs, Custom Library Development and AIM
 methodologies.
+
+__[Connect@](https://www.linkedin.com/in/nikhilnara "About me")__
